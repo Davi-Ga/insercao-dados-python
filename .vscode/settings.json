@@ -1,0 +1,24 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "db-bigdata.postgres.uhserver.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "ConexaoComOTrabalho de BD",
+            "database": "db_bigdata",
+            "username": "adminbigdata",
+            "password": "projetobigdata1@"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "TESTEBD",
+            "database": "testebd",
+            "username": "postgres"
+        }
+    ]
+}
