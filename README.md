@@ -30,7 +30,7 @@ Na criação do bot foi utilizado 4 arquivos nomeados de:
 
 ![giphy](https://media.giphy.com/media/rJyNB1szJ4BSeGHbBt/giphy.gif)
 
-## Conlusão
+## Conclusão
 
 Créditos para:  
   -:diamond_shape_with_a_dot_inside:Davi Galdino de Oliveira Souza  
