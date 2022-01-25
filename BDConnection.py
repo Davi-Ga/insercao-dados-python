@@ -5,7 +5,7 @@ from pytest import param
 DB_HOST = "localhost"
 DB_NAME = "testebd"
 DB_USER = "postgres"
-DB_PASS = "9379"
+DB_PASS = "123543"
 
 #Classe de conexão
 class Connection:

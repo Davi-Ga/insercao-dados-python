@@ -11,7 +11,7 @@ def insertData(): #Método que lê o arquivo do tipo .csv
         nextMessageCounter=568
         nextMessage=1
         start=time.time() #Inicia um contador 
-        #inserindo regiões
+        #inserindo dados
         for row in reader:
             
             if(rowCounter>1):
