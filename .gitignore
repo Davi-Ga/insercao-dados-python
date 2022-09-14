@@ -1,7 +1,2 @@
 .vscode/settings.json
-__pycache__/BDConnection.cpython-38.pyc
-__pycache__/BDConnection.cpython-310.pyc
-__pycache__/insertCSVData.cpython-38.pyc
-__pycache__/insertCSVData.cpython-310.pyc
-__pycache__/insertQuerys.cpython-38.pyc
-__pycache__/insertQuerys.cpython-310.pyc
+__pycache__
